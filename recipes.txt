@@ -3,3 +3,6 @@ Hi Welcome to the Recipes page
 Added line1
 
 3rd July GIT, OOPs, Spring Boot, Jenkins, All terminiologies
+
+
+Ongoing coding as part of the release 1.2 added this line
