@@ -6,3 +6,6 @@ Added line1
 
 
 This line added in Master - due to Prod issue this line was added in Master Branch
+
+
+This will go into release 1.2
